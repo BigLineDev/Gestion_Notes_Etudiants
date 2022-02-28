@@ -1,0 +1,9 @@
+Pour que l'élève puisse voir ses notes il doit fournir son matricule et la formation
+
+**Login Administrateur**
+
+Username: admin
+Password: Password@123
+
+
+
